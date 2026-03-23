@@ -1,0 +1,40 @@
+2026-03-13 11:17:37.215 | INFO     | main:<module>:4 - Application started
+2026-03-13 11:17:38.177 | INFO     | main:<module>:4 - Application started
+2026-03-13 11:18:18.962 | INFO     | main:get_my_todos:74 - Fetching todos
+2026-03-13 11:24:55.303 | INFO     | main:<module>:14 - Application started
+2026-03-13 11:24:56.363 | INFO     | main:<module>:14 - Application started
+2026-03-13 11:25:07.380 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:25:07.390 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:25:12.739 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:25:12.750 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:25:57.991 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:29:52.149 | INFO     | main:<module>:14 - Application started
+2026-03-13 11:29:53.229 | INFO     | main:<module>:14 - Application started
+2026-03-13 11:29:56.713 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:29:56.724 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:29:57.391 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-13 11:29:57.400 | INFO     | main:get_my_todos:73 - Fetching todos
+2026-03-16 22:33:44 | INFO | Application started
+2026-03-16 22:33:45 | INFO | Application started
+2026-03-16 22:34:16 | WARNING | Неудачная попытка авторизации для логина: Тим
+2026-03-16 22:34:26 | INFO | Пользователь Тим успешно вошел в систему
+2026-03-16 22:34:26 | INFO | Fetching todos
+2026-03-19 00:04:30 | INFO | Application started
+2026-03-19 00:04:31 | INFO | Application started
+2026-03-23 22:36:33 | INFO | Application started
+2026-03-23 22:36:34 | INFO | Application started
+2026-03-23 22:36:49 | INFO | Пользователь Тим успешно вошел в систему
+2026-03-23 22:36:49 | INFO | Fetching todos
+2026-03-23 22:36:57 | INFO | Fetching todos
+2026-03-23 22:36:57 | INFO | Fetching todos
+2026-03-23 22:37:21 | INFO | Пользователь Григ успешно вошел в систему
+2026-03-23 22:37:22 | INFO | Fetching todos
+2026-03-23 22:37:38 | INFO | Fetching todos
+2026-03-23 22:37:38 | INFO | Fetching todos
+2026-03-23 22:38:31 | INFO | Пользователь Тим успешно вошел в систему
+2026-03-23 22:38:31 | INFO | Fetching todos
+2026-03-23 22:38:43 | INFO | Пользователь Тим успешно вошел в систему
+2026-03-23 22:38:43 | INFO | Fetching todos
+2026-03-23 22:38:51 | INFO | Пользователь Григ успешно вошел в систему
+2026-03-23 22:38:51 | INFO | Fetching todos
+2026-03-23 22:59:17 | INFO | Application started
